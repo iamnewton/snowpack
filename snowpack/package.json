@@ -43,7 +43,7 @@
     "index.bundle.js"
   ],
   "dependencies": {
-    "esbuild": "^0.8.7"
+    "esbuild": "^0.10.1"
   },
   "optionalDependencies": {
     "fsevents": "^2.1.0"

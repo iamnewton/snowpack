@@ -5776,7 +5776,7 @@ css-loader@^4.3.0:
 "css-package-a@file:./test/build/config-alias/packages/css-package-a":
   version "1.2.3"
 
-"css-package@file:./test/build/scan-imports/packages/css-package":
+"css-package@file:./test/build/scan-imports-html/packages/css-package":
   version "1.2.3"
 
 css-select-base-adapter@^0.1.1:
@@ -6692,10 +6692,10 @@ es6-promisify@^5.0.0:
   dependencies:
     es6-promise "^4.0.3"
 
-esbuild@^0.8.0, esbuild@^0.8.7:
-  version "0.8.21"
-  resolved "https://registry.yarnpkg.com/esbuild/-/esbuild-0.8.21.tgz#c431f8af457795c2fecb1b2873cb8eaef4e5b53c"
-  integrity sha512-vRRx5MZmiekw2R7jK5BppvBUFCJA0Zkl0wYxrDmyUvMPBcQC/xJvxJUM4R+Hgjgb3gp5P1W655AsuoqDeQQDVw==
+esbuild@^0.12.2:
+  version "0.12.2"
+  resolved "https://registry.yarnpkg.com/esbuild/-/esbuild-0.12.2.tgz#2914445954044dc8b859d4a59c288a725bbae7bb"
+  integrity sha512-VELu6ndrs0CWMV+Ts8GwO3S08JsFFrEuHCo8ekfqNAv/rHEK4UjoXvZOFyopHvRvQVsbTvqQWfBzYKVeLBm0WA==
 
 escalade@^3.1.1:
   version "3.1.1"
